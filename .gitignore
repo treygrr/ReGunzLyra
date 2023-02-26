@@ -121,6 +121,8 @@ Binaries/*
 Plugins/*/Binaries/*
 Plugins/*/*/Binaries
 
+Plugins/*/*/Intermediate/Build
+
 # Builds
 Build/*
 
