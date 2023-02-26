@@ -119,7 +119,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
-Plugins/*/GameFeatures/Binaries/*
+Plugins/*/GameFeatures/*/Binaries/*
 
 # Builds
 Build/*
